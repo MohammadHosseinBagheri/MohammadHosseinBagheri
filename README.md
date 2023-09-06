@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left" min-width="50">✨ Creating bugs since 2017<br>📚 I'm currently learning: Design-Patterns & Solid principles<br>🎯 Goals: I want to be a Front-End developer that creates optimized applications and writes clean codes <br</p>
+<p align="left" min-width="50">✨ Creating bugs since 2017<br>🐧 I'm crazy about linux & open sources<br>📚 I'm currently learning: Design-Patterns & Solid principles & LPIC1 <br>🎯 Goals: I want to be a Front-End developer that creates optimized applications and writes clean codes <br</p>
 
 ###
 
@@ -29,6 +29,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="express logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="express logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="express logo"  />
+      <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="express logo"  />
+    <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="express logo"  />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
