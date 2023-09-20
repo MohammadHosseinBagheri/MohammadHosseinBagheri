@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left" min-width="50">✨ Creating bugs since 2017<br>🐧 I'm crazy about linux & open sources<br>📚 I'm currently learning: Design-Patterns & Solid principles & LPIC1 <br>🎯 Goals: I want to be a Front-End developer that creates optimized applications and writes clean codes <br</p>
+<p align="left" min-width="50">✨ I have created bugs since 2017<br>🐧 I'm crazy about linux & open sources<br>📚 I'm currently learning: Design-Patterns & Solid principles & LPIC1 <br>🎯 Goals: I want to be a Front-End developer that creates optimized applications and writes clean codes <br</p>
 
 ###
 
