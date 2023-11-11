@@ -12,7 +12,7 @@
 
 ###
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nxddqt6tp42q7rs3kab4jclqdi&count=7" alt="Spotify recently played" width= 35% align="right"/>](https://open.spotify.com/user/31nxddqt6tp42q7rs3kab4jclqdi)
+
 
 ###
 
